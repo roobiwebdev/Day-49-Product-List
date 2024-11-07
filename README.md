@@ -21,3 +21,7 @@ The system is fully functional and provides a seamless experience!  I know there
 💪 Excited to keep pushing forward and improving! 💻
 
 🔗 Live Link: [Dessert Cart System](https://roobiwebdev.github.io/Day-49-Product-List/)
+
+
+
+![desktop-design-selected](https://github.com/user-attachments/assets/97275015-caa9-4000-a2ef-335af5e8a236)
